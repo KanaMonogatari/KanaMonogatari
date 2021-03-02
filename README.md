@@ -7,7 +7,6 @@ I am a beginner php developer. If you have any comments or questions, please wri
 + My contacts:
     + Discord: Kana#3566
     + E-mail: dragon100800@gmail.com
-    + Vk: https://vk.com/id229202187
     + Steam: https://steamcommunity.com/profiles/76561198096665890/
 
 
