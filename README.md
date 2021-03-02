@@ -7,9 +7,9 @@ I am a beginner php developer. If you have any comments or questions, please wri
 + My contacts:
     + Discord: Kana#3566
     + E-mail: dragon100800@gmail.com
-    + Steam: https://steamcommunity.com/profiles/76561198096665890/
+    + [Steam]: https://steamcommunity.com/profiles/76561198096665890/ "Steam"
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)
