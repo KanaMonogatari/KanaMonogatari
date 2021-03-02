@@ -3,11 +3,11 @@ I am a beginner php developer. If you have any comments or questions, please wri
 + If we talk about me, then:
     * Learning Japanese: I have N4.
     * Favorite book - Judas Iscariot (Andreev Leonid Nikolaevich)
-    * I love Japanese music very much, my spotify account is: https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk
+    * I love Japanese music very much, [my spotify account](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
 + My contacts:
     + Discord: Kana#3566
-    + E-mail: dragon100800@gmail.com
-    + [Steam]: https://steamcommunity.com/profiles/76561198096665890/ "Steam"
+    + [E-mail](dragon100800@gmail.com "E-mail")
+    + [Steam](https://steamcommunity.com/profiles/76561198096665890/ "Steam")
 
 
 
