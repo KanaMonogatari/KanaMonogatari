@@ -12,6 +12,6 @@ I am a beginner php developer. If you have any comments or questions, please wri
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
