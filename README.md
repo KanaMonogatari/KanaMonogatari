@@ -9,7 +9,7 @@ I am a beginner php developer. If you have any comments or questions, please wri
     + E-mail: dragon100800@gmail.com
     + [Steam](https://steamcommunity.com/profiles/76561198096665890/ "Steam")
 
-
+### 🎧 Now listenig to:
 [<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
 
 
