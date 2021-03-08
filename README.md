@@ -1,4 +1,4 @@
-###👋 Konnichiwa!
+### 👋 Konnichiwa!
 I am a beginner php developer. If you have any comments or questions, please write to my discord (Kana#3566), thanks!
 + If we talk about me, then:
     + Learning Japanese: I have N4.
