@@ -12,5 +12,6 @@ I am a beginner php developer. If you have any comments or questions, please wri
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KanaMonogatari)](https://github.com/anuraghazra/github-readme-stats)
 
