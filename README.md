@@ -3,7 +3,7 @@ I am a beginner php developer. If you have any comments or questions, please wri
 + If we talk about me, then:
     + Learning Japanese: I have N4.
     + Favorite book - Judas Iscariot (Andreev Leonid Nikolaevich)
-    + I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
+    + I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)<br/>
 + My contacts:
     + Discord: Kana#3566
     + E-mail: dragon100800@gmail.com
