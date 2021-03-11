@@ -12,7 +12,7 @@ I am a beginner php developer. If you have any comments or questions, please wri
 ### 🎧 Now listenig to:
 [<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
 <br/><br/>
-<img src="https://www.codewars.com/users/Hitsanmik/badges/large">
+[<img src="https://www.codewars.com/users/Hitsanmik/badges/large">](https://www.codewars.com/users/Hitsanmik)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
