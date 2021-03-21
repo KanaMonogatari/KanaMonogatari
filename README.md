@@ -8,6 +8,7 @@ I am a beginner php developer. If you have any comments or questions, please wri
     + Discord: Kana#3566
     + E-mail: dragon100800@gmail.com
     + [Steam](https://steamcommunity.com/profiles/76561198096665890/ "Steam")
+    + [Codingame](https://www.codingame.com/profile/30f505d4d9d71977e14ba4a98360031a8075324 "Codingame")
 
 ### 🎧 Now listenig to:
 [<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
