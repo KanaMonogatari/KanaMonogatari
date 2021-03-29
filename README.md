@@ -6,7 +6,7 @@ I am a beginner php developer. If you have any comments or questions, please wri
     + I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)<br/><br/>
 + My contacts:
     + Discord: Kana#3566
-    + [Instagram](https://github.com/KanaMonogatari "Instagram")
+    + [Instagram](https://www.instagram.com/kanamonogatari/ "Instagram")
     + E-mail: dragon100800@gmail.com
     + [Steam](https://steamcommunity.com/profiles/76561198096665890/ "Steam")
     + [Codingame](https://www.codingame.com/profile/30f505d4d9d71977e14ba4a98360031a8075324 "Codingame")
