@@ -2,7 +2,7 @@
 I am a beginner php developer. If you have any comments or questions, please write to my discord (Kana#3566), thanks!
 + If we talk about me, then:
     + Learning Japanese: I have N4.
-    + Favorite book - Judas Iscariot (Andreev Leonid Nikolaevich)
+    + Favorite book - Cursed days (Ivan Bunin)
     + I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)<br/><br/>
 + My contacts:
     + Discord: Kana#3566
