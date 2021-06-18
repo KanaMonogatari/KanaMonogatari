@@ -1,4 +1,4 @@
-<img align="left" width = 40% src="./photo1.png"> <samp> <br>
+<img align="left" width = 35% src="./photo2.png"> <samp> <br>
 ### 👋 Konnichiwa!
 I am a beginner front-end developer. If you have any comments or questions, please write to my discord (Kana#3566), thanks!
 + #### If we talk about me, then:
