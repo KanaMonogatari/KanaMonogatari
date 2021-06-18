@@ -4,11 +4,11 @@ I am a beginner front-end developer. If you have any comments or questions, plea
 + #### If we talk about me, then:
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Japanese: I have N4.
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Favorite book - Cursed days (Ivan Bunin)
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)<br/><br/>
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)<br/>
 + #### My contacts:
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord: Kana#3566
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kanamonogatari/ "Instagram")
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: dragon100800@gmail.com<br/>
+    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: dragon100800@gmail.com<br/><br/>
     + [<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
     <!--+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Codingame](https://www.codingame.com/profile/30f505d4d9d71977e14ba4a98360031a8075324 "Codingame") -->
     
