@@ -13,6 +13,7 @@ I am a beginner front-end developer. If you have any comments or questions, plea
 ### 🎧 Now listenig to:
 [<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
 <br/><br/>
+### 👨‍💻 Codewars:
 [<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
 
 
