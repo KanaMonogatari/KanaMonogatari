@@ -16,7 +16,6 @@ I am a beginner front-end developer. If you have any comments or questions, plea
 ### 👨‍💻 Codewars:
 [<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
 
-<br/>
 
 ### 🦉 Stats:
 
