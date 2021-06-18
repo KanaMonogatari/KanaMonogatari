@@ -10,6 +10,8 @@ I am a beginner front-end developer. If you have any comments or questions, plea
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kanamonogatari/ "Instagram")
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: dragon100800@gmail.com
     <!--+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Codingame](https://www.codingame.com/profile/30f505d4d9d71977e14ba4a98360031a8075324 "Codingame") -->
+    
+    <br/>
 
 
 ### 🎧 Now listenig to:
