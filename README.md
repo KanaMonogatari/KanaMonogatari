@@ -15,15 +15,15 @@ I am a beginner front-end developer. If you have any comments or questions, plea
 
 
 ### 🎧 Now listenig to:
-[<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
 <br/>
 ### 👨‍💻 Codewars:
-[<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
 
 
 ### 🦉 Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -
