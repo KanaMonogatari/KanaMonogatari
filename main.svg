@@ -2,6 +2,9 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                .container {
+                color: rgb(201,209,217);
+                }
             </style>
             <div class="container">
                 <h1> text </h1>
