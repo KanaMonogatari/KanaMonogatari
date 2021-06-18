@@ -2,15 +2,9 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-
-                .container{
-                background-size:500% 500%;
-                background-color:rgb(13,17,23);
-          
-                }
             </style>
             <div class="container">
-                <h1>👋 Konnichiwa!</h1>
+                <p> text </p>
 
             </div>
         </div>
