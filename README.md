@@ -16,10 +16,13 @@ I am a beginner front-end developer. If you have any comments or questions, plea
 ### 👨‍💻 Codewars:
 [<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
 
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)
 <br/>
 
-<!---!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+### 🦉 Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -
+
+-->
