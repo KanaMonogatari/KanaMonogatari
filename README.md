@@ -1,6 +1,6 @@
 <img align="left" width = 35% src="./photo2.png"> <br>
 ### 👋 Konnichiwa!
-I'm not a developer now. If you have any questions, please write to my discord (Kana#3566), thanks!
+If you have any questions, please write to my discord (Kana#3566), thanks!
 + #### If we talk about me, then:
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Japanese: I have N4.
     + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Favorite book - Judas Iscariot (Leonid Andreyev)
